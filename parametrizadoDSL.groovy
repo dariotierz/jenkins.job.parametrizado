@@ -21,5 +21,5 @@ job('ejemplo2-job-DSL') {
       		mailer('macloujulian@gmail.com', true, true)
       		
         	}
-    	}
+    	
 }
